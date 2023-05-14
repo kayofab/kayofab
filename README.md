@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do kayofab
+## Bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/kayofab">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Minhas redes sociais.
  
 <div> 
   <a href="https://youtube.com/@kayo_gg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
